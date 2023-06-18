@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "release": "1994",
+    "video": "/video/",
+    "length": "142",
+    "boxoffice": "28.34",
+    "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "release": "1972",
+    "video": "/video/",
+    "length": "175",
+    "boxoffice": "134.97",
+    "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+  }
+]

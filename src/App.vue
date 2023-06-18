@@ -1,7 +1,7 @@
 <script setup>
-  import helloWorld from './components/HelloWorld.vue'
+  import Movies from './components/Movies.vue'
 </script>
 
 <template>
-    <helloWorld />
+    <Movies />
 </template>
