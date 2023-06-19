@@ -20,7 +20,8 @@ npm run build
 
 ## 🔬 Bronnen
 
-Tijdens het project heb ik data verzameld uit deze bronnen en platformen:
+Tijdens het project heb ik data verzameld uit verschillende bronnen en platformen:
 
 - [imdb.com](https://www.imdb.com/)
 - [movieposterdb.com](https://www.movieposterdb.com/)
+- [youtube.com](https://www.youtube.com/)

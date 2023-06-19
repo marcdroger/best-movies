@@ -6,3 +6,13 @@
 @import './variables/fonts';
 @import './variables/spacing';
 @import './variables/viewport';
+
+//components
+@import './components/container';
+@import './components/header';
+@import './components/movies';
+@import './components/footer';
+
+//animation
+@import './anim/fade-in';
+@import './anim/scroll-snap';

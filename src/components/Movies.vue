@@ -20,9 +20,9 @@
           This browser does not support the background video playing
         </video>
         <div class="container">
-          <div class="movies__title"><h2>{{ movie.title }}</h2><span>{{ movie.release }}</span></div>
+          <h2 class="movies__title">{{ movie.title }}</h2>
+          <div class="movies__info"><p><span>Released</span> {{ movie.release }} </p><p><span>Length </span>{{ movie.length }} min.</p><p><span> Gross </span>${{ movie.boxoffice }}M</p></div>
           <p class="movies__description"> {{ movie.description }}</p>
-          <div><p class="movie__length"><span>Length: </span>{{ movie.length }} min.</p><p class="movie__boxoffice"><span>Gross: </span>${{ movie.boxoffice }}M</p></div>
         </div>
       </li>
     </ul>
@@ -56,7 +56,7 @@
     })
   },
   {
-    rootMargin: "-300px",
+    rootMargin: "-400px",
   }
   );
 

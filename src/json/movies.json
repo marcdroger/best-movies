@@ -3,7 +3,7 @@
     "id": 1,
     "title": "The Shawshank Redemption",
     "release": "1994",
-    "video": "/video/",
+    "video": "/video/shawshankredemption.mp4",
     "length": "142",
     "boxoffice": "28.34",
     "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
@@ -12,9 +12,126 @@
     "id": 2,
     "title": "The Godfather",
     "release": "1972",
-    "video": "/video/",
+    "video": "/video/godfather.mp4",
     "length": "175",
     "boxoffice": "134.97",
     "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
+  },
+  {
+    "id": 3,
+    "title": "The Godfather Part II",
+    "release": "1974",
+    "video": "/video/",
+    "length": "202",
+    "boxoffice": "57.30",
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+  },
+  {
+    "id": 4,
+    "title": "The Good, the Bad and the Ugly",
+    "release": "1966",
+    "video": "/video/goodbadugly.mp4",
+    "length": "161",
+    "boxoffice": "6.10",
+    "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "release": "1994",
+    "video": "/video/pulpfiction.mp4",
+    "length": "154",
+    "boxoffice": "107.93",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+  },
+  {
+    "id": 6,
+    "title": "Schindler's List",
+    "release": "1993",
+    "video": "/video/schindlers.mp4",
+    "length": "195",
+    "boxoffice": "96.60",
+    "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+  },
+  {
+    "id": 7,
+    "title": "12 angry men",
+    "release": "1957",
+    "video": "/video/12angrymen.mp4",
+    "length": "96",
+    "boxoffice": "4.36",
+    "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+  },
+  {
+    "id": 8,
+    "title": "Inception",
+    "release": "2010",
+    "video": "/video/inception.mp4",
+    "length": "148",
+    "boxoffice": "292.58",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+  },
+  {
+    "id": 9,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "release": "1975",
+    "video": "/video/",
+    "length": "133",
+    "boxoffice": "112.00",
+    "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse."
+  },
+  {
+    "id": 10,
+    "title": "The Dark Knight",
+    "release": "2008",
+    "video": "/video/",
+    "length": "152",
+    "boxoffice": "534.86",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+    "id": 11,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "release": "1980",
+    "video": "/video/",
+    "length": "124",
+    "boxoffice": "290.48",
+    "description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings: The Return of the King",
+    "release": "2003",
+    "video": "/video/",
+    "length": "201",
+    "boxoffice": "377.85",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+  },
+  {
+    "id": 13,
+    "title": "Shichinin no samurai",
+    "release": "",
+    "video": "/video/",
+    "length": "",
+    "boxoffice": "",
+    "description": ""
+  },
+  {
+    "id": 14,
+    "title": "Fight Club",
+    "release": "",
+    "video": "/video/",
+    "length": "",
+    "boxoffice": "",
+    "description": ""
+  },
+  {
+    "id": 15,
+    "title": "Goodfellas",
+    "release": "",
+    "video": "/video/",
+    "length": "",
+    "boxoffice": "",
+    "description": ""
   }
 ]
