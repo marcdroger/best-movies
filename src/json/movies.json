@@ -21,7 +21,7 @@
     "id": 3,
     "title": "The Godfather Part II",
     "release": "1974",
-    "video": "/video/",
+    "video": "/video/godfather2.mp4",
     "length": "202",
     "boxoffice": "57.30",
     "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
@@ -75,7 +75,7 @@
     "id": 9,
     "title": "One Flew Over the Cuckoo's Nest",
     "release": "1975",
-    "video": "/video/",
+    "video": "/video/cuckoosnest.mp4",
     "length": "133",
     "boxoffice": "112.00",
     "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse."
@@ -84,7 +84,7 @@
     "id": 10,
     "title": "The Dark Knight",
     "release": "2008",
-    "video": "/video/",
+    "video": "/video/darknight.mp4",
     "length": "152",
     "boxoffice": "534.86",
     "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
@@ -93,7 +93,7 @@
     "id": 11,
     "title": "Star Wars: Episode V - The Empire Strikes Back",
     "release": "1980",
-    "video": "/video/",
+    "video": "/video/starwars.mp4",
     "length": "124",
     "boxoffice": "290.48",
     "description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
@@ -102,7 +102,7 @@
     "id": 12,
     "title": "The Lord of the Rings: The Return of the King",
     "release": "2003",
-    "video": "/video/",
+    "video": "/video/lordoftherings.mp4",
     "length": "201",
     "boxoffice": "377.85",
     "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
@@ -110,28 +110,28 @@
   {
     "id": 13,
     "title": "Shichinin no samurai",
-    "release": "",
-    "video": "/video/",
-    "length": "",
-    "boxoffice": "",
-    "description": ""
+    "release": "1954",
+    "video": "/video/sevensamurai.mp4",
+    "length": "207",
+    "boxoffice": "0.27",
+    "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him."
   },
   {
     "id": 14,
     "title": "Fight Club",
-    "release": "",
-    "video": "/video/",
-    "length": "",
-    "boxoffice": "",
-    "description": ""
+    "release": "1999",
+    "video": "/video/fightclub.mp4",
+    "length": "139",
+    "boxoffice": "37.03",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
   },
   {
     "id": 15,
     "title": "Goodfellas",
-    "release": "",
-    "video": "/video/",
-    "length": "",
-    "boxoffice": "",
-    "description": ""
+    "release": "1990",
+    "video": "/video/goodfellas.mp4",
+    "length": "145",
+    "boxoffice": "46.84",
+    "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
   }
 ]
