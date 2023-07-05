@@ -1,7 +1,14 @@
 .input {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin: 20px 0;
+  font-size: $text-xl;
+
+  p {
+    color: $white;
+    margin: 0 10px 0 30px;
+  }
 
   &__search {
     outline: none;
@@ -11,5 +18,11 @@
     padding: 10px 4px 10px 14px;
     width: 500px;
     text-transform: capitalize;
+  }
+
+  &__category {
+    cursor: pointer;
+    font-size: $text-xl;
+    padding: 8px 4px;
   }
 }

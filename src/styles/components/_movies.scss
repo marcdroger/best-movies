@@ -8,19 +8,19 @@
   margin-top: 60px;
 
   //modifier transition animations for when user is in viewport of movie
-  &--enter {
-    #{$this}__title {
-      animation: fade-in-bottom .4s cubic-bezier(.4,0,.2,1) .2s both;
-    }
+  // &--enter {
+  //   #{$this}__title {
+  //     animation: fade-in-bottom .4s cubic-bezier(.4,0,.2,1) .2s both;
+  //   }
 
-    #{$this}__info {
-      animation: fade-in-bottom .4s cubic-bezier(.4,0,.2,1) .3s both;
-    }
+  //   #{$this}__info {
+  //     animation: fade-in-bottom .4s cubic-bezier(.4,0,.2,1) .3s both;
+  //   }
 
-    #{$this}__description {
-      animation: fade-in-bottom .4s cubic-bezier(.4,0,.2,1) .4s both;
-    }
-  }
+  //   #{$this}__description {
+  //     animation: fade-in-bottom .4s cubic-bezier(.4,0,.2,1) .4s both;
+  //   }
+  // }
 
   p {
     font-size: $text-xl;
