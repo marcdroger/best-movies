@@ -1,13 +1,19 @@
 export default function showPopup() {
   const moviePosters = document.querySelectorAll('.movies__front');
+  const closeElements = document.querySelectorAll('.movies__close');
+  let popupElement;
 
   moviePosters.forEach((poster) => {
-    let next = poster.nextElementSibling;
+    popupElement = poster.nextElementSibling;
 
     poster.addEventListener('click', () => {
-      next.classList.toggle('movies__popup--show');
+      popupElement.classList.toggle('movies__popup--show');
     })
   })
 
-  console.log(moviePosters);
+  closeElements.forEach((close) => {
+    close.addEventListener('click', () => {
+      popupElement.classList.toggle('movies__popup--show');
+    })
+  })
 }
