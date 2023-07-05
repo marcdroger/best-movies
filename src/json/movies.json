@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "The Shawshank Redemption",
+    "poster": "/poster/shawshankredemption.jpg",
     "release": "1994",
     "video": "/video/shawshankredemption.mp4",
     "length": "142",
@@ -11,6 +12,7 @@
   {
     "id": 2,
     "title": "The Godfather",
+    "poster": "/poster/godfather.jpg",
     "release": "1972",
     "video": "/video/godfather.mp4",
     "length": "175",
@@ -20,6 +22,7 @@
   {
     "id": 3,
     "title": "The Godfather Part II",
+    "poster": "/poster/godfather2.jpg",
     "release": "1974",
     "video": "/video/godfather2.mp4",
     "length": "202",
@@ -29,6 +32,7 @@
   {
     "id": 4,
     "title": "The Good, the Bad and the Ugly",
+    "poster": "/poster/goodbadugly.jpg",
     "release": "1966",
     "video": "/video/goodbadugly.mp4",
     "length": "161",
@@ -38,6 +42,7 @@
   {
     "id": 5,
     "title": "Pulp Fiction",
+    "poster": "/poster/pulpfiction.jpg",
     "release": "1994",
     "video": "/video/pulpfiction.mp4",
     "length": "154",
@@ -47,6 +52,7 @@
   {
     "id": 6,
     "title": "Schindler's List",
+    "poster": "/poster/schindlers.jpg",
     "release": "1993",
     "video": "/video/schindlers.mp4",
     "length": "195",
@@ -56,6 +62,7 @@
   {
     "id": 7,
     "title": "12 angry men",
+    "poster": "/poster/12angrymen.jpg",
     "release": "1957",
     "video": "/video/12angrymen.mp4",
     "length": "96",
@@ -65,6 +72,7 @@
   {
     "id": 8,
     "title": "Inception",
+    "poster": "/poster/inception.jpg",
     "release": "2010",
     "video": "/video/inception.mp4",
     "length": "148",
@@ -74,6 +82,7 @@
   {
     "id": 9,
     "title": "One Flew Over the Cuckoo's Nest",
+    "poster": "/poster/cuckoosnest.jpg",
     "release": "1975",
     "video": "/video/cuckoosnest.mp4",
     "length": "133",
@@ -83,6 +92,7 @@
   {
     "id": 10,
     "title": "The Dark Knight",
+    "poster": "/poster/darknight.jpg",
     "release": "2008",
     "video": "/video/darknight.mp4",
     "length": "152",
@@ -92,6 +102,7 @@
   {
     "id": 11,
     "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "poster": "/poster/starwars.jpg",
     "release": "1980",
     "video": "/video/starwars.mp4",
     "length": "124",
@@ -101,6 +112,7 @@
   {
     "id": 12,
     "title": "The Lord of the Rings: The Return of the King",
+    "poster": "/poster/lordoftherings.jpg",
     "release": "2003",
     "video": "/video/lordoftherings.mp4",
     "length": "201",
@@ -110,6 +122,7 @@
   {
     "id": 13,
     "title": "Shichinin no samurai",
+    "poster": "/poster/sevensamurai.jpg",
     "release": "1954",
     "video": "/video/sevensamurai.mp4",
     "length": "207",
@@ -119,6 +132,7 @@
   {
     "id": 14,
     "title": "Fight Club",
+    "poster": "/poster/fightclub.jpg",
     "release": "1999",
     "video": "/video/fightclub.mp4",
     "length": "139",
@@ -128,6 +142,7 @@
   {
     "id": 15,
     "title": "Goodfellas",
+    "poster": "/poster/goodfellas.jpg",
     "release": "1990",
     "video": "/video/goodfellas.mp4",
     "length": "145",
