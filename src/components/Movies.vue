@@ -1,7 +1,13 @@
 <template>
   <main>
+    <div class="input">
+      <input class="input__search" v-model="search" type="text" placeholder="Search film database" />
+    </div>
     <ul class="movies">
-      <li v-for="movie in movies" :key="movie.id" class="movies__item">
+      <p v-if="!filterList.length" class="movies__empty">
+        No movies found for your criteria &#128532;
+      </p>
+      <li v-for="movie in filterList" :key="movie.id" class="movies__item">
         <div class="movies__front">
           <img class="movies__poster" :src="movie.poster" :alt="movie.title" />
           <h1>{{ movie.title }}</h1>
@@ -32,6 +38,15 @@
     data() {
       return {
         movies: json,
+        search: ''
+      }
+    },
+
+    computed: {
+      filterList() {
+        return this.movies.filter(movie => {
+          return movie.title.toLowerCase().includes(this.search.toLowerCase())
+        })
       }
     }
   }

@@ -5,7 +5,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: $space-md 0;
+  margin-top: 60px;
 
   //modifier transition animations for when user is in viewport of movie
   &--enter {
@@ -22,11 +22,20 @@
     }
   }
 
+  p {
+    font-size: $text-xl;
+  }
+
+  &__empty {
+    padding: 200px 0;
+    text-align: center;
+  }
+
   &__front {
     margin: 0 $space-lg $space-3xl;
 
     img {
-      border-radius: $space-sm;
+      border-radius: 14px;
       width: 300px;
       height: 460px;
       object-fit: cover;
@@ -41,10 +50,6 @@
     h1 {
       display: none;
     }
-  }
-
-  p {
-    font-size: $text-xl;
   }
 
   &__popup {
