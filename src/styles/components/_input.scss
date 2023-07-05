@@ -15,16 +15,6 @@
     margin: 0 10px 0;
   }
 
-  &__search {
-    outline: none;
-    border: none;
-    border-radius: 6px;
-    font-size: $text-xl;
-    padding: 10px 4px 10px 14px;
-    width: 500px;
-    text-transform: capitalize;
-  }
-
   &__dropdown {
     cursor: pointer;
     font-size: $text-xl;

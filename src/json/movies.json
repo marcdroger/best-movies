@@ -5,7 +5,7 @@
     "poster": "/poster/shawshankredemption.jpg",
     "release": "1994",
     "video": "/video/shawshankredemption.mp4",
-    "length": "142",
+    "length": 142,
     "boxoffice": "28.34",
     "category": "Drama",
     "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
@@ -16,7 +16,7 @@
     "poster": "/poster/godfather.jpg",
     "release": "1972",
     "video": "/video/godfather.mp4",
-    "length": "175",
+    "length": 175,
     "boxoffice": "134.97",
     "category": "Crime",
     "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
@@ -27,7 +27,7 @@
     "poster": "/poster/godfather2.jpg",
     "release": "1974",
     "video": "/video/godfather2.mp4",
-    "length": "202",
+    "length": 202,
     "boxoffice": "57.30",
     "category": "Crime",
     "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
@@ -38,7 +38,7 @@
     "poster": "/poster/goodbadugly.jpg",
     "release": "1966",
     "video": "/video/goodbadugly.mp4",
-    "length": "161",
+    "length": 161,
     "boxoffice": "6.10",
     "category": "Western",
     "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
@@ -49,7 +49,7 @@
     "poster": "/poster/pulpfiction.jpg",
     "release": "1994",
     "video": "/video/pulpfiction.mp4",
-    "length": "154",
+    "length": 154,
     "boxoffice": "107.93",
     "category": "Crime",
     "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
@@ -60,7 +60,7 @@
     "poster": "/poster/schindlers.jpg",
     "release": "1993",
     "video": "/video/schindlers.mp4",
-    "length": "195",
+    "length": 195,
     "boxoffice": "96.60",
     "category": "History",
     "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
@@ -71,7 +71,7 @@
     "poster": "/poster/12angrymen.jpg",
     "release": "1957",
     "video": "/video/12angrymen.mp4",
-    "length": "96",
+    "length": 96,
     "boxoffice": "4.36",
     "category": "Drama",
     "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
@@ -82,7 +82,7 @@
     "poster": "/poster/inception.jpg",
     "release": "2010",
     "video": "/video/inception.mp4",
-    "length": "148",
+    "length": 148,
     "boxoffice": "292.58",
     "category": "Action",
     "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
@@ -93,7 +93,7 @@
     "poster": "/poster/cuckoosnest.jpg",
     "release": "1975",
     "video": "/video/cuckoosnest.mp4",
-    "length": "133",
+    "length": 133,
     "boxoffice": "112.00",
     "category": "Drama",
     "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse."
@@ -104,7 +104,7 @@
     "poster": "/poster/darknight.jpg",
     "release": "2008",
     "video": "/video/darknight.mp4",
-    "length": "152",
+    "length": 152,
     "boxoffice": "534.86",
     "category": "Action",
     "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
@@ -115,7 +115,7 @@
     "poster": "/poster/starwars.jpg",
     "release": "1980",
     "video": "/video/starwars.mp4",
-    "length": "124",
+    "length": 124,
     "boxoffice": "290.48",
     "category": "Action",
     "description": "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett."
@@ -126,7 +126,7 @@
     "poster": "/poster/lordoftherings.jpg",
     "release": "2003",
     "video": "/video/lordoftherings.mp4",
-    "length": "201",
+    "length": 201,
     "boxoffice": "377.85",
     "category": "Action",
     "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
@@ -137,7 +137,7 @@
     "poster": "/poster/sevensamurai.jpg",
     "release": "1954",
     "video": "/video/sevensamurai.mp4",
-    "length": "207",
+    "length": 207,
     "boxoffice": "0.27",
     "category": "Action",
     "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him."
@@ -148,7 +148,7 @@
     "poster": "/poster/fightclub.jpg",
     "release": "1999",
     "video": "/video/fightclub.mp4",
-    "length": "139",
+    "length": 139,
     "boxoffice": "37.03",
     "category": "Drama",
     "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
@@ -159,7 +159,7 @@
     "poster": "/poster/goodfellas.jpg",
     "release": "1990",
     "video": "/video/goodfellas.mp4",
-    "length": "145",
+    "length": 145,
     "boxoffice": "46.84",
     "category": "Crime",
     "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."

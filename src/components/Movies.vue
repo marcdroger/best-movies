@@ -1,7 +1,6 @@
 <template>
   <main>
     <div class="input">
-      <input class="input__search" v-model="search" type="text" placeholder="Search film database" />
       <p>Categories: </p>
       <select class="input__dropdown" v-model="category">
         <option value="">All</option>
@@ -11,9 +10,9 @@
         <option value="History">History</option>
         <option value="Western">Western</option>
       </select>
-      <!-- <p>Duration:</p>
+      <p>Duration:</p>
       <input type="range" v-model="range" min="0" max="250" step="10" />
-      <span>{{ range }} min.</span> -->
+      <span>{{ range }} min.</span>
     </div>
     <ul class="movies">
       <p v-if="!filterList.length" class="movies__empty">
@@ -50,17 +49,15 @@
     data() {
       return {
         movies: json,
-        search: '',
         category: '',
-        range: '60'
+        range: '250'
       }
     },
 
     computed: {
       filterList() {
         return this.movies.filter(movie => !movie.category.indexOf(this.category) &&
-        movie.title.toLowerCase().includes(this.search.toLocaleLowerCase()))
-        //&& (movie.duration > 0 && movie.duration < this.range) ? movie.duration : ''))
+        (movie.length <= this.range) ? movie: '')
       }
     }
   }
