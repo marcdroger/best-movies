@@ -33,6 +33,7 @@
             <h2 class="movies__title">{{ movie.title }}</h2>
             <div class="movies__info"><p><span>Released</span> {{ movie.release }} </p><p><span> Category </span>{{ movie.category }}</p><p><span>Length </span>{{ movie.length }} min.</p><p><span> Gross </span>${{ movie.boxoffice }}M</p></div>
             <p class="movies__description"> {{ movie.description }}</p>
+            <a class="movies__link" :href="movie.link" target="_blank">Watch Movie</a>
           </div>
         </div>
       </li>
