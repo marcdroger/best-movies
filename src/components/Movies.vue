@@ -6,16 +6,16 @@
           <img class="movies__poster" :src="movie.poster" :alt="movie.title" />
           <h1>{{ movie.title }}</h1>
         </div>
-        <div class="movies__popup" :class="{ active: showPopup }">
+        <div class="movies__popup">
+          <video class="movies__video" loop preload="none">
+            <source :src="movie.video" type="video/mp4" />
+            This browser does not support the background video playing
+          </video>
+          <img class="movies__close" src="/img/close.svg" alt="close popup" />
           <div class="movies__container">
-            <img class="movies__close" src="/img/close.svg" alt="close popup" />
             <h2 class="movies__title">{{ movie.title }}</h2>
             <div class="movies__info"><p><span>Released</span> {{ movie.release }} </p><p><span>Length </span>{{ movie.length }} min.</p><p><span> Gross </span>${{ movie.boxoffice }}M</p></div>
             <p class="movies__description"> {{ movie.description }}</p>
-            <video class="movies__video" loop preload="none">
-              <source :src="movie.video" type="video/mp4" />
-              This browser does not support the background video playing
-            </video>
           </div>
         </div>
       </li>

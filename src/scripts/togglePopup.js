@@ -1,19 +1,23 @@
 export default function showPopup() {
   const moviePosters = document.querySelectorAll('.movies__front');
-  const closeElements = document.querySelectorAll('.movies__close');
-  let popupElement;
 
   moviePosters.forEach((poster) => {
-    popupElement = poster.nextElementSibling;
+    let popupElement = poster.nextElementSibling;
+
+    let videoElement = popupElement.childNodes[0];
+
+    let closeElement = popupElement.childNodes[1];
+
+    console.log(closeElement);
 
     poster.addEventListener('click', () => {
       popupElement.classList.toggle('movies__popup--show');
+      videoElement.play();
     })
-  })
 
-  closeElements.forEach((close) => {
-    close.addEventListener('click', () => {
+    closeElement.addEventListener('click', () => {
       popupElement.classList.toggle('movies__popup--show');
+      videoElement.pause();
     })
   })
 }
