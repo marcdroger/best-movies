@@ -1,8 +1,11 @@
 # 📽️ The Movies ever made 📽️
 
+![og-image](https://github.com/marcdroger/best-movies/assets/11356517/ca38a1bd-767d-4989-bc4a-5a1f01261781)
+
 *Information Design - Eind project (CMD HvA)*
 
 ## 📖 Concept
+Welkom bij mijn data visualisatie eindproject. Dit project is een interactive storytelling applicatie waarin je beste films uit de geschiedenis kan ontdekken.
 
 ## 🔨 Project Install
 
