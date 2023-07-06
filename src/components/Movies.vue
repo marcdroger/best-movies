@@ -24,7 +24,7 @@
           <h1>{{ movie.title }}</h1>
         </div>
         <div class="movies__popup">
-          <video class="movies__video" loop preload="none">
+          <video class="movies__video" loop preload="metadata">
             <source :src="movie.video" type="video/mp4" />
             This browser does not support the background video playing
           </video>
