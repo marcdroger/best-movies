@@ -21,7 +21,6 @@
       <li v-for="movie in filterList" :key="movie.id" class="movies__item">
         <div class="movies__front">
           <img class="movies__poster" :src="movie.poster" :alt="movie.title" />
-          <h1>{{ movie.title }}</h1>
         </div>
         <div class="movies__popup">
           <video class="movies__video" loop preload="metadata">
