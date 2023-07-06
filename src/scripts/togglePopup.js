@@ -20,8 +20,11 @@ export default function showPopup() {
 
     //add click event for close icon and toggle popup + pause video
     closeElement.addEventListener('click', () => {
-      popupElement.classList.toggle('movies__popup--show');
-      videoElement.pause();
+      //popupElement.classList.toggle('movies__popup--show');
+      //videoElement.pause();
+
+      //temporary fix for the issue of filtering but after the filter the toggle popup is not workign anymore
+      location.reload();
     })
   })
 }
